@@ -1,4 +1,7 @@
 - beli rumah
 - beli mobil
   *mazda
+  *toyota
 - beli motor
+  *vario
+- beli laptop
