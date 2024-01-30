@@ -3,4 +3,5 @@
   *mazda
   *toyota
 - beli motor
+  *vario
 - beli laptop
